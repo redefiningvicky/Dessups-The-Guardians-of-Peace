@@ -1,0 +1,46 @@
+OBJECTID,Name,Website,Gewog,Dzongkhag,Scheme,Months,Date_Completed,Households,People_Benefited,Schools,Acres,BHU,Plots,Drashtang,Population,Trenching_Distance_km,Lat,Long,Altitude,Male,Female,TotDesuups,Status,Location
+1,Kamji Water Project,https://desuung.org.bt/geling-water-project/,Kamji,Chukha,Drinking Water,3.0,2021-04-24,11,89,,,,,,,9.05,26.89,89.46,,,,,Complete,
+2,Kalapang Water Project,https://desuung.org.bt/portfolio/kalapang-water-project-mongar/,Saling,Mongar,Drinking Water and Dry Water Irrigation,3.0,2021-05-10,22,135,,42.00,1,,,,4.50,27.19,91.20,,,,,Complete,Kalapang
+3,Dangdung Water Project,https://desuung.org.bt/portfolio/dangdung-water-project-trongsa/,Guma,Trongsa,Drinking Water,3.0,2021-04-28,57,285,,,,,,,6.10,27.33,90.58,,,,,Complete,Dangdung
+4,Kana Water Project,https://desuung.org.bt/portfolio/kana-water-project-dagana/,Kana,Dagana,Drinking Water,3.0,2021-05-28,86,895,,,,,,,9.85,27.03,89.91,,,,,Complete,
+5,Naja Water Project,https://desuung.org.bt/portfolio/naja-water-project-paro/,Naja,Paro,Drinking Water,4.0,2021-06-21,87,728,,,,,,,4.34,27.25,89.41,,,,,Complete,
+6,Naja Water Project,https://desuung.org.bt/portfolio/naja-water-project-paro/,Bemphu,Paro,Drinking Water,2.0,2021-12-15,14,115,,,,,,,1.40,27.25,89.41,,,,,Complete,
+7,Samtengang Water Project,https://desuung.org.bt/portfolio/nyisho-water-project-wangduephodrang/,Samtengang,Wangdue Phodrang,Drinking Water,3.0,2021-06-10,,970,2,,,,,,7.09,27.52,89.98,,,,,Complete,
+8,Telung Water Project,https://desuung.org.bt/portfolio/telung-water-project-pemagatshel/,Telung,Pemagatshel,Drinking Water,3.0,2021-07-02,85,340,,,,,,,7.77,27.02,91.40,,,,,Complete,
+9,Gomdar Water Project,https://desuung.org.bt/portfolio/gomdar-water-project/,Gomdar,SamdrupJongkhar,Drinking Water,6.0,2021-07-23,36,240,,,,,,,4.20,26.81,91.50,,,,,Complete,
+10,Khar Water Project,https://desuung.org.bt/portfolio/khar-water-project/,Khar,Pemagatshel,Drinking Water,3.0,2021-07-25,66,219,,,,,,,6.60,26.99,91.40,,,,,Complete,
+11,Tshaphel Water Project,https://desuung.org.bt/portfolio/tshaphel-water-project/,Tshaphel,Haa,Drinking Water,3.0,2021-09-08,17,510,1,,,,,,2.61,27.34,89.32,,,,,Complete,
+12,LAP 4-Samdrup Jongkhar,https://desuung.org.bt/portfolio/lap-4-samdrup-jongkhar/,"Thromde, LAP 4",SamdrupJongkhar,Drinking Water,4.0,2021-09-08,61,1500,1,,,,,,1.20,26.80,91.50,,,,,Complete,
+13,Guma Water Project,https://desuung.org.bt/portfolio/guma-water-project-punakha/,Guma,Punakha,Drinking Water,3.0,2021-09-25,225,1945,,,,,,,13.00,27.57,89.87,,,,,Complete,
+14,Ramina Water Project,https://desuung.org.bt/portfolio/ramina-water-project/,Ramina,Gasa,Drinking Water,2.0,2021-09-30,192,960,,,,,,,1.86,27.71,89.77,,,,,Complete,
+15,Tareythang Water Project,https://desuung.org.bt/portfolio/tareythang-water-project-sarpang/,Tareythang,Sarpang,Dry Water Irrigation,3.0,2021-09-29,8,,,7.71,,,,,1.70,26.85,90.56,,,,,Complete,
+16,Gomphu Water Project,https://desuung.org.bt/portfolio/gomphu-water-project/,Gomphu,Zemgang,Drinking Water,5.0,2021-10-06,63,347,,,,,,,2.60,27.15,90.69,,,,,Complete,
+17,Tangsibi Water Project,https://desuung.org.bt/portfolio/tangsibi-water-project/,Tangsibi,Bumthang,Drinking Water and Dry Water Irrigation,4.0,2021-11-06,52,360,,,,,,,6.34,27.49,90.84,,,,,Complete,
+18,Shyiner Water Project,https://desuung.org.bt/portfolio/shyiner-water-project/,Shyenyer,Bumthang,Drinking Water,3.5,2021-11-03,43,330,,,,,,,6.60,27.49,90.92,,,,,Complete,
+19,Kheni-Tokshing Water Project,https://desuung.org.bt/portfolio/kheni-tokshing-water-project/,Kheni,Trashiyangtse,Drinking Water,5.0,2021-11-11,140,865,,,,,,,9.00,27.48,91.61,,,,,Complete,
+20,Semjong Water Project,https://desuung.org.bt/portfolio/second-pilot-project-for-de-suung-national-service/,Semjong,Tsirang,Drinking Water and Dry Water Irrigation,3.0,2021-11-26,72,571,,210.00,,,,,1.19,26.83,90.04,,,,,Complete,
+21,Domakhey Water Project,https://desuung.org.bt/portfolio/25123/,Domakhey,Punakha,Drinking Water,4.5,2022-03-06,14,,,,,,,,9.00,27.63,89.86,1352.03,,,,Complete,
+22,Lingtey Water Project,https://desuung.org.bt/portfolio/lingtey-water-project/,Sang-Ngagcholing,Samtse,Dry Water Irrigation,5.0,2022-03-24,54,,,113.00,,,,,2.20,26.96,88.97,451.11,,,,Complete,Lingtey
+23,Padtsheling Water Project,https://desuung.org.bt/padtsheling-water-project-commissioned/,Padtsheling,Tsirang,Drinking Water,4.0,2022-04-04,47,263,,,,,,,8.32,26.95,90.16,1613.03,,,52,Complete,Tshakaling
+24,Tshaidang Water Project,http://www.zhemgang.gov.bt/news/completion-construction-water-supply-tshaidang-phc-school-and-maintenance-work-nagkhar,Nangkor,Zemgang,Drinking Water,4.0,2022-04-22,68,450,1,,1,,,,4.10,27.10,90.80,1135.39,,,,Complete,Tshaidhang
+25,Gyalpozhing Water Project,https://desuung.org.bt/portfolio/gyalpozhing-water-project/,Gyelpozhing Throm,Mongar,Drinking Water,8.0,2022-04-24,532,3200,,,,,,,9.17,27.23,91.20,,,,,Complete,
+26,Jigme Choling Water Project,https://www.bbs.bt/news/?p=163831,Jigme Choling,Sarpang,Drinking Water,3.0,2022-05-20,143,743,,,,,,,7.89,27.01,90.55,1186.14,28,19,47,Complete,Khamed
+27,Lhamoizingkha Water Project,https://desuung.org.bt/portfolio/lhamoizingkha-water-project/,Lhamozingkha,Dagana,Drinking Water,6.0,2022-05-27,500,3000,,,,,,,7.70,26.73,89.82,197.63,,,50,Complete,
+28,Udzorong Water Project,https://desuung.org.bt/portfolio/udzorong-water-project/,Udzorong,Trashigang,Drinking Water,6.5,2022-07-24,442,2210,,,,,,,36.14,27.24,91.51,2375.79,,,,Complete,
+29,Wophu Water Project,http://www.gasa.gov.bt/index.php/news/water-supply-flagship-project-wophu-kidu-settlement-launched,Laya,Gasa,Drinking Water,2.0,2022-08-20,197,985,,,,,,,1.45,27.90,89.73,2734.60,13,10,23,Complete,Wophu
+30,Wooling Water Project,https://desuung.org.bt/portfolio/wooling-water-project-launched/,Orong,Samdrup Jongkhar,Drinking Water,5.0,2022-08-31,80,334,,,,,,,5.45,26.96,91.50,959.47,25,7,32,Complete,Wooling
+31,Wangringmo Irrigation Scheme,https://desuung.org.bt/wangringmo-irrigation-canal-launched-in-trashiyangtse/,Ramjar,Trashiyangtse,Dry Water Irrigation,6.0,2022-09-04,333,,,170.00,,,,,6.90,27.44,91.58,859.49,56,36,20,Complete,Wangringmo
+32,Gida-Jamdho Water Project,https://kuenselonline.com/de-suung-water-project-to-benefit-96-households/,Mewang,Thimphu,Drinking Water,4.0,2022-09-14,96,919,,,,,,,14.69,27.40,89.57,2338.31,50,22,28,Complete,"Gida, Jamdho"
+33,Langjaru Water Project,https://desuung.org.bt/2nd-water-project-launched-in-haa-dzongkhag/,Sombaykha,Haa,Drinking Water and Dry Water Irrigation,6.0,2022-11-06,12,,,190.35,,,,,4.50,27.17,89.14,1624.12,,,,Complete,Langjaru
+34,Khangdari-Godari Irrigation Scheme,https://desuung.org.bt/khangdari-godari-irrigation-scheme/,Yangner,Tashigang,Dry Water Irrigation,6.0,2022-11-14,154,,,136.54,,,,,2.54,27.39,91.53,1284.33,36,22,58,Complete,
+35,Rawadrang - Menchu Irrigation Water Project,http://trashiyangtse.gov.bt/events/launching-rawadrang-menchu-irrigation-water-project,Tongmijjangsa,Trashiyangtse,Dry Water Irrigation,5.5,2023-01-14,90,,,180.00,,,,,4.50,27.44,91.55,,50,20,70,Complete,
+36,Jomotshangkha Water Project ,https://thebhutanese.bt/around-3000-beneficiaries-of-the-desuung-water-project/,Serthi,Samdrup Jongkhar,Dry Water Irrigation,6.0,2023-02-19,136,,,428.00,,,,,5.30,26.91,92.07,473.21,66,33,99,Complete,Jomotshangkha
+37,Zham Water Project,https://www.facebook.com/DeSuungGuardiansofPeace/posts/600200055481445/,Minjay,Lhuentse,Dry Water Irrigation,6.0,2023-03-19,42,,,380.00,,,,,5.50,27.61,91.25,2232.51,38,,,Complete,
+38,Depsi Water Project,https://desuung.org.bt/depsi-water-project/,Depsi,Thimphu,Drinking Water,8.0,2023-02-25,,3000,,,,334,,9150,6.80,27.43,89.64,2416.62,74,30,104,Complete,
+39,Sibjana Irrigation Scheme,https://kuenselonline.com/sibjana-irrigation-scheme-to-benefit-50-households-in-gasa/,Khamed,Gasa,Dry Water Irrigation,5.0,2024-02-23,58,,,120.00,,,,,3.02,27.81,89.73,,,,,Complete,Sibjana
+40,Omshari Landmark Irrigation Project,https://desuung.org.bt/completion-of-omshari-landmark-irrigation-project/,Pemathang,Samdrup Jongkhar,Dry Water Irrigation,7.0,2024-06-23,446,,,922.00,,,,,7.04,26.90,91.74,,,,,Complete,
+41,Martsalla Water Project,https://desuung.org.bt/completion-of-martsalla-water-project/,Martsalla,Samdrup Jongkhar,Drinking Water,5.0,2024-06-23,75,350,,,,,,,8.77,26.88,91.71,,,,,Complete,Samdrupcholing Drungkhag
+42,Lhachhuthang Water Supply Scheme,https://www.bbs.bt/news/?p=183300,Phuentshogpelri,Samtse,Drinking Water,4.0,2023-12-14,85,477,,,,,,,10.34,26.82,89.19,,,,,Complete,Lhachutang
+43,Gelephu Landmark Water Supply Project,https://desuung.org.bt/conclusion-of-gelephu-landmark-water-supply-project/,Samtenling,Sarpang,Drinking Water,18.0,2023-12-23,4276,60000,,,,,,,12.30,26.92,90.46,,,,,Complete,Gelephu
+44,Gyetsa Water Project,https://desuung.org.bt/gyetsa-water-project-inaugurated/,Chumig,Bumthang,Drinking Water,5.0,2024-05-02,65,,,,,,1,,5.30,27.50,90.70,,,,,Complete,Gyetsa
+45,Lhayual Water Project,https://desuung.org.bt/inauguration-of-lhayual-water-project-sarpang/,Chudzom,Sarpang,Drinking Water,6.0,2024-07-18,,156,1,,1,,,,22.10,27.03,90.39,,,,,Active,Lhayul
