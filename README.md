@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>🕊️ Dessups: The Guardians of Peace</h1>
@@ -23,7 +22,8 @@
 
 <hr>
 
-<h2 id="objective">🎯 Objective</h2>
+<a name="objective"></a>
+<h2>🎯 Objective</h2>
 
 <p>
   This project examines the Desuung Integrated Training
@@ -39,7 +39,8 @@
 
 <hr>
 
-<h2 id="project-details">🛠️ Project Details</h2>
+<a name="project-details"></a>
+<h2>🛠️ Project Details</h2>
 
 <p>
   <strong>Tools:</strong> ArcGIS Online, ArcGIS StoryMaps,
@@ -48,7 +49,8 @@
 
 <hr>
 
-<h2 id="storymaps">🌐 StoryMaps</h2>
+<a name="storymaps"></a>
+<h2>🌐 StoryMaps</h2>
 
 <p>
   <a href="https://arcg.is/11KOu80">
@@ -58,16 +60,17 @@
 
 <hr>
 
-<h2 id="images">🖼️ Images</h2>
+<a name="images"></a>
+<h2>🖼️ Images</h2>
 
 <h3>Dessups: The Guardians of Peace StoryMaps</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace/blob/main/Dessups_The_Guardians_of_Peace.gif">
+      <a href="GIF/Dessups_The_Guardians_of_Peace.gif">
         <img
-          src="Dessups_The_Guardians_of_Peace.gif"
+          src="GIF/Dessups_The_Guardians_of_Peace.gif"
           alt="Dessups: The Guardians of Peace StoryMaps animated preview"
           width="100%"
         />
